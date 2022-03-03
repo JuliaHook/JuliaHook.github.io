@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: bold;
+}
+
+h1 {
+    font-size: bold;
+    padding-top: 50px;
+    
+}
+
+h2 {
+    color: purple;
+    
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: pink;
+    padding: 10px;
+    
+}
+
+td {
+    border: black solid 2px;
+}
+
+.first {
+    background-color: white;
+}
+
